@@ -1,4 +1,4 @@
-# Online Theatre Ticket Reservation System - Frontend
+# MovieSpot Online Theatre Ticket Reservation System - Frontend
 
 Welcome to the frontend repository of the Online Theatre Ticket Reservation System. This repository contains the codebase for the frontend implementation of the website, providing a user-friendly interface for customers to purchase tickets and reserve seats for shows and movies.
 
