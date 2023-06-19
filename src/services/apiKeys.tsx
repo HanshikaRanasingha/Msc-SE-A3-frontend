@@ -1,0 +1,1 @@
+export const api_key = 'e7226267'; //please replce this with your omdb api key

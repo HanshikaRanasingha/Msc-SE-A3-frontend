@@ -1,0 +1,53 @@
+.card {
+    margin: 1rem 1rem 1rem 0;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
+.boxShadow {
+    box-shadow: 0 0 4px 0 rgba(207,208,218,0.5), 0 5px 19px -8px rgba(55,58,98,0.35);
+}
+
+.poster {
+    display: flex;
+    justify-content: center;
+    max-width: '';
+    margin-left: auto;
+    border-radius: '8px';
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.cardText {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #494c4d;
+    padding: 1rem;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-align: center;
+    font-size: 2rem;
+    border-bottom: 1px solid #d5d7db;
+}
+
+.bottom {
+    bottom: 0;
+    display: flex;
+    flex-direction: row;
+    color: #d4d6da;
+    justify-content: space-between;
+}
+
+.content {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: small;
+    color: #3b3e3f;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 180%;
+    font-size: medium;
+    text-align: justify;
+}

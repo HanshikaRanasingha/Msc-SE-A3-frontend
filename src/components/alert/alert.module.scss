@@ -1,0 +1,37 @@
+.alert {
+    background-color: #f2f5f7;
+    max-height: 4rem;
+    max-width: 43rem;
+    margin: auto;
+    margin-top: 1.5rem;
+    padding: 1.5rem ;
+}
+
+.alertText {
+    margin: auto;
+    font-family: sans-serif;
+    font-size: small;
+    color: #4d5051;
+    display: flex;
+    justify-content: center;
+}
+
+.errorAlert {
+    background-color: #fdecf0;
+    max-height: 4rem;
+    max-width: 43rem;
+    margin: auto;
+    margin-top: 1.5rem;
+    padding: 1.5rem;
+    border: 1px dashed #e8426c;
+}
+
+.errorAlertText {
+    margin: auto;
+    font-family: sans-serif;
+    font-size: small;
+    color: #e8426c;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}
