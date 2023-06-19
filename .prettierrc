@@ -1,0 +1,8 @@
+{
+    "singleQuote": true,
+    "importOrder": ["^@front-end/(.*)$", "^@mui/(.*)$", "^[./]"],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true,
+    "printWidth": 120
+  }
+  
